@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SQLator/static/css/main.e6c13ad2.css",
-    "main.js": "/SQLator/static/js/main.bbcf0b11.js",
+    "main.js": "/SQLator/static/js/main.b12cc1b2.js",
     "static/js/787.cced9c8e.chunk.js": "/SQLator/static/js/787.cced9c8e.chunk.js",
     "index.html": "/SQLator/index.html",
     "main.e6c13ad2.css.map": "/SQLator/static/css/main.e6c13ad2.css.map",
-    "main.bbcf0b11.js.map": "/SQLator/static/js/main.bbcf0b11.js.map",
+    "main.b12cc1b2.js.map": "/SQLator/static/js/main.b12cc1b2.js.map",
     "787.cced9c8e.chunk.js.map": "/SQLator/static/js/787.cced9c8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bbcf0b11.js"
+    "static/js/main.b12cc1b2.js"
   ]
 }
